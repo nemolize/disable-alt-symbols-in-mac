@@ -16,5 +16,5 @@ MacでOptionキーを押しながら英字を入力した際に記号が入力�
 
 ![screenshot](https://github.com/nemolize/disable-alt-symbols-in-mac/blob/master/screenshot.png?raw=true)
 
-## Thanks
-This layout file is created with [Ukelele](http://software.sil.org/ukelele/)
+## 謝辞
+このレイアウトファイルは [Ukelele](http://software.sil.org/ukelele/) で作られました
