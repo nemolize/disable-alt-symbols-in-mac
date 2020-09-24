@@ -5,7 +5,7 @@ MacでOptionキーを押しながら英字を入力した際に記号が入力�
 例えば自分のMacではA + Optionキーで`å`という記号が入力されますが、こうした挙動が起こらないようにしたものです。
 
 # 使い方
-1. `specialCharsDisabled.bundle.zip` をダウンロードして展開。
+1. [specialCharsDisabled.bundle.zip](https://github.com/nemolize/disable-alt-symbols-in-mac/blob/master/specialCharsDisabled.bundle.zip?raw=true) をダウンロードして展開。
 2. `specialCharsDisabled.bundle` を `~/Library/Keyboard Layouts`にコピーする。
 2. キーボード設定を開く。
 3. `+` ボタンをクリックして英語を選択する。
