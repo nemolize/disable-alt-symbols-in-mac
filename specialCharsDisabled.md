@@ -4,4 +4,4 @@
 3. click `+` button and choose `English`
 4. choose `specialChartsDisabled.bundle`
 
-![screenshot](raw/f9f8d105c764b748f3743c427c13d085ca8785dd/screenshot.png)
+![screenshot](![screenshot](https://gist.github.com/nemolize/0c8b1776e2db1640c9d4ad27124673d1/raw/f9f8d105c764b748f3743c427c13d085ca8785dd/screenshot.png))
