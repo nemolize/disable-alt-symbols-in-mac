@@ -2,7 +2,7 @@ English / [日本語](./README.ja.md)
 
 # What is this?
 This is a layout file that prevents symbols from being entered when you enter letters while holding down the Option key on a Mac.
-For example, on my Mac, the symbol `å` is entered with the A + Option keys, but this behavior is prevented.
+For example, on my Mac, the symbol `å` is entered with the A + Option keys, but this behavior is prevented with this layout file.
 
 # How to use
 1. download [specialCharsDisabled.bundle.zip](https://github.com/nemolize/disable-alt-symbols-in-mac/blob/master/specialCharsDisabled.bundle.zip?raw=true) and extract.
